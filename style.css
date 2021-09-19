@@ -1,0 +1,18 @@
+.heading{
+Width: 80% ; 
+font-size: 25px;
+}
+body{
+    background-color : lightgreen ;
+color :rgb(1, 5, 8)
+}
+#camera{
+    border: 2px dashed crimson ;
+    width:350px ;
+    height : 300px ;
+}
+#snapshot{
+    border: 2px dashed crimson ;
+    width:350px ;
+    height : 280px ;
+}
